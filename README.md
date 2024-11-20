@@ -16,10 +16,10 @@ The aim of this project is to demonstrate how to convert an image to grayscale u
 
 ## Program:
 ```
-NAME    : BEJIN B
-REG NO  : 212222230021
+NAME    : SACHIN.C
+REG NO  : 212222230125
 ```
-```
+```cuda
 #include <stdio.h>
 #include <string>
 #include <math.h>
